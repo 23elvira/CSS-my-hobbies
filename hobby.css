@@ -1,0 +1,43 @@
+/* Universal Selector*/
+/* Set defult margin/padding */
+*{
+margin:auto;
+padding: 10px 10px 10px 10px;
+border: 0;
+box-sizing: border-box;}
+/* Element/tag selector*/
+img{width:80%;
+border-radius:10px;
+}
+
+body{background-color: rgb(220, 134, 21);}
+
+div{
+     /*center an element*/
+    margin:auto;
+    border:0cm;
+    padding:0%
+    /*align text to center*/
+    width:80%;
+    /*set background color*/
+    background-color:rgb(149, 130, 130) ;
+    /*set text color*/
+    color:rgb(62, 36, 2);
+    /*border-rounding*/
+    border-radius: 5px;
+    /*font-size in pixels*/
+    font-size:24px;
+    /*Move text to center*/
+    text-align:center;
+}
+h4{color: rgb(214, 209, 193);
+    font-style:italic;
+}
+#food{color:rgb(227, 230, 223);}
+h2{color:rgb(227, 230, 223);}
+h3{color:rgba(214, 214, 163, 0.904);}
+dt{color: rgb(214, 209, 193);}
+dd{color:rgb(218, 193, 163);}
+.list{color:rgb(218, 193, 163);}
+h1{color:rgb(149, 130, 130);}
+
